@@ -43,8 +43,8 @@ END
 ```
 
 ### OUTPUT:
-<img width="1920" height="1200" alt="Screenshot (43)" src="https://github.com/user-attachments/assets/3a399ffe-a7f8-42bd-b72b-2e43b29a939e" />
-<img width="1920" height="1200" alt="Screenshot (44)" src="https://github.com/user-attachments/assets/bb41a24f-32e6-4521-a344-0d187547ffb6" />
+<img width="1920" height="1200" alt="Screenshot (43)" src="https://github.com/user-attachments/assets/901468ee-8734-42a8-b9e9-350bae7b2f81" />
+<img width="1920" height="1200" alt="Screenshot (44)" src="https://github.com/user-attachments/assets/6297e142-59c8-4b6e-bbeb-cefba5270b0a" />
 
 ### RESULT:
 Thus the Serial transfer of Single Byte / Character using 8051 KEIL was done and shown the output.
